@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LED RGB Louis")(type "KiCad")(uri "C:/Users/Eleve/Downloads/WP154A4SUREQBFZGC/WP154A4SUREQBFZGC.kicad_sym")(options "")(descr ""))
+  (lib (name "WP154A4SUREQBFZGC")(type "KiCad")(uri "C:/Users/Eleve/Downloads/WP154A4SUREQBFZGC/WP154A4SUREQBFZGC.kicad_sym")(options "")(descr ""))
+)
