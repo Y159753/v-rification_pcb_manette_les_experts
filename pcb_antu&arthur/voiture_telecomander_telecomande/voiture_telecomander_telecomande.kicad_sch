@@ -3288,6 +3288,16 @@
 		)
 		(uuid "2f0c6bef-3bf0-4831-a00e-3a8062073c79")
 	)
+	(label "Alim_ESP"
+		(at 96.52 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3a13b3dd-7944-4c7c-a80f-6551405bada9")
+	)
 	(label "R"
 		(at 77.47 172.72 180)
 		(effects
@@ -3297,6 +3307,16 @@
 			(justify right bottom)
 		)
 		(uuid "43e434ee-e58e-4f99-91e2-3b84ffe4c012")
+	)
+	(label "Alim_ESP"
+		(at 55.88 114.3 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "45a687a0-c4b4-46bc-97c9-fc60b4695d87")
 	)
 	(label "DIO_ECRAN"
 		(at 55.88 88.9 180)
@@ -3457,6 +3477,16 @@
 			(justify right bottom)
 		)
 		(uuid "dca3570b-ea03-4a6a-8376-3443bdf7061f")
+	)
+	(label "Alim_ESP"
+		(at 238.76 138.43 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e9d611c2-cf73-49e6-ab08-42f48b8e0461")
 	)
 	(label "G"
 		(at 77.47 175.26 180)
@@ -4325,140 +4355,6 @@
 			(project "voiture_telecomander_telecomande"
 				(path "/570fb641-a88b-4e77-9989-d06242766e90"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 238.76 138.43 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "27e5d978-80bd-4c81-ab7f-ca12e9dfe1a9")
-		(property "Reference" "#PWR03"
-			(at 242.57 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 234.95 138.4299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 238.76 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 238.76 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 238.76 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b6491db2-9193-4253-8bbb-8c7a623e5acc")
-		)
-		(instances
-			(project ""
-				(path "/570fb641-a88b-4e77-9989-d06242766e90"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 96.52 114.3 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "29b9abe5-9b6e-4cd6-bc1f-32891c00f5de")
-		(property "Reference" "#PWR09"
-			(at 92.71 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 100.33 114.2999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.52 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 96.52 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3dcd3e36-97b9-44ca-86bb-fe740191c33a")
-		)
-		(instances
-			(project ""
-				(path "/570fb641-a88b-4e77-9989-d06242766e90"
-					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -6092,73 +5988,6 @@
 			(project "voiture_telecomander_telecomande"
 				(path "/570fb641-a88b-4e77-9989-d06242766e90"
 					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 55.88 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8b7d9db1-294b-4f75-9d71-5d2aa69ddf0d")
-		(property "Reference" "#PWR08"
-			(at 59.69 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 52.07 114.2999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 55.88 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 55.88 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 55.88 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ddfe8ee2-44c9-4e2e-a80b-f5b009eaea90")
-		)
-		(instances
-			(project ""
-				(path "/570fb641-a88b-4e77-9989-d06242766e90"
-					(reference "#PWR08")
 					(unit 1)
 				)
 			)
