@@ -2451,6 +2451,12 @@
 		(uuid "96d18af0-04c5-4ad5-9e6e-4af4702fd78b")
 	)
 	(junction
+		(at 162.56 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cc08adff-e59e-4ab5-9863-9be16a8813c1")
+	)
+	(junction
 		(at 72.39 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2498,6 +2504,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 146.05) (xy 165.1 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2088e800-1b8e-41d0-8d19-17ef08e3135b")
+	)
+	(wire
+		(pts
 			(xy 162.56 146.05) (xy 162.56 154.94)
 		)
 		(stroke
@@ -2528,16 +2544,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 52.07) (xy 167.64 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "308e4d4a-19ba-40cd-8749-c9e07ef04d85")
-	)
-	(wire
-		(pts
 			(xy 72.39 29.21) (xy 72.39 26.67)
 		)
 		(stroke
@@ -2555,16 +2561,6 @@
 			(type default)
 		)
 		(uuid "3f5f52a5-e79d-412f-85ee-cc6febe53b6e")
-	)
-	(wire
-		(pts
-			(xy 140.97 113.03) (xy 149.86 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40bbaa34-5db8-4712-bb9a-ccab374ee2e9")
 	)
 	(wire
 		(pts
@@ -2608,16 +2604,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 135.89) (xy 149.86 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "482a7362-269b-403f-978a-d4275a5305e7")
-	)
-	(wire
-		(pts
 			(xy 160.02 87.63) (xy 160.02 95.25)
 		)
 		(stroke
@@ -2658,16 +2644,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 125.73) (xy 175.26 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5548b93f-d754-40c3-93c7-74eaaf653b48")
-	)
-	(wire
-		(pts
 			(xy 167.64 90.17) (xy 167.64 95.25)
 		)
 		(stroke
@@ -2695,16 +2671,6 @@
 			(type default)
 		)
 		(uuid "6949e189-3880-45d1-9e0c-58e71d47448e")
-	)
-	(wire
-		(pts
-			(xy 154.94 40.64) (xy 154.94 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e0b04a3-fb7e-4298-b367-e36dc18fbdef")
 	)
 	(wire
 		(pts
@@ -2748,16 +2714,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 130.81) (xy 175.26 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f05ced4-7bfe-453e-acfc-4f944e39f1be")
-	)
-	(wire
-		(pts
 			(xy 44.45 66.04) (xy 44.45 35.56)
 		)
 		(stroke
@@ -2775,16 +2731,6 @@
 			(type default)
 		)
 		(uuid "89b52d96-43b0-44c9-b853-4f2a5a173bb9")
-	)
-	(wire
-		(pts
-			(xy 138.43 138.43) (xy 149.86 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8df5e650-9602-4aed-92fc-4b1804096bc2")
 	)
 	(wire
 		(pts
@@ -2848,16 +2794,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 135.89) (xy 175.26 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8afb70b-f6a7-4f3f-8ad2-529006a75fcd")
-	)
-	(wire
-		(pts
 			(xy 87.63 166.37) (xy 90.17 166.37)
 		)
 		(stroke
@@ -2885,6 +2821,16 @@
 			(type default)
 		)
 		(uuid "cbee212b-1a3e-4c70-aed0-b6609d4c7975")
+	)
+	(wire
+		(pts
+			(xy 182.88 123.19) (xy 175.26 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce0ccca1-3f64-4c4a-88fc-58955031fd83")
 	)
 	(wire
 		(pts
@@ -2996,15 +2942,15 @@
 		)
 		(uuid "3000ae10-4c46-4d9a-941c-cf8e6e0d6ff7")
 	)
-	(label "HCEnable"
-		(at 167.64 52.07 270)
+	(label "JS_H"
+		(at 182.88 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "424422ed-9ac2-47c2-a41c-fa53ed46ab69")
+		(uuid "495503a2-bd9d-49c5-a38f-212bfaa92520")
 	)
 	(label "Clock"
 		(at 116.84 76.2 0)
@@ -3026,16 +2972,6 @@
 		)
 		(uuid "5b98a62f-2f4b-4b09-a7fe-90f8475d5454")
 	)
-	(label "HCState"
-		(at 154.94 40.64 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5c9ee722-e482-40e4-a723-1b8277aceb5d")
-	)
 	(label "TX"
 		(at 160.02 53.34 0)
 		(effects
@@ -3045,16 +2981,6 @@
 			(justify left bottom)
 		)
 		(uuid "5d8b6722-891e-4fee-847f-603cdf281fd4")
-	)
-	(label "Button_JS_L"
-		(at 140.97 113.03 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6ed97750-209a-40fb-a54d-f6bdd7db2e1a")
 	)
 	(label "TX"
 		(at 132.08 128.27 180)
@@ -3076,17 +3002,7 @@
 		)
 		(uuid "73fda6f9-aad4-4e57-b1f7-4fe83cf15f53")
 	)
-	(label "HCState"
-		(at 137.16 135.89 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7e58d3db-3c07-4055-b426-5a7a27869f76")
-	)
-	(label "Right_V"
+	(label "JS_V"
 		(at 236.22 102.87 180)
 		(effects
 			(font
@@ -3116,7 +3032,7 @@
 		)
 		(uuid "9c2695f2-0b73-4750-b6d0-0fd7b276b390")
 	)
-	(label "Button_JS_R"
+	(label "Button_JS"
 		(at 140.97 110.49 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3157,36 +3073,6 @@
 		)
 		(uuid "b7c1f4cd-3387-4016-866c-269e8e014305")
 	)
-	(label "Left_H"
-		(at 182.88 135.89 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bb64efe8-7312-492b-9029-00f1f21290ca")
-	)
-	(label "Left_V"
-		(at 182.88 130.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c1d1a465-fbbb-43a5-bb19-2bb4790abce8")
-	)
-	(label "HCEnable"
-		(at 138.43 138.43 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d5e2b99d-ca53-4cea-b4f6-6b43e59fbc47")
-	)
 	(label "DIO"
 		(at 116.84 78.74 0)
 		(effects
@@ -3217,7 +3103,7 @@
 		)
 		(uuid "ed33e161-d293-4324-9f77-800f05c43e0f")
 	)
-	(label "Button_JS_R"
+	(label "Button_JS"
 		(at 215.9 125.73 0)
 		(effects
 			(font
@@ -3227,7 +3113,7 @@
 		)
 		(uuid "ef62fcae-baf5-4d2e-aa02-a8bc1c15fbbe")
 	)
-	(label "Right_V"
+	(label "JS_V"
 		(at 182.88 120.65 0)
 		(effects
 			(font
@@ -3236,16 +3122,6 @@
 			(justify left bottom)
 		)
 		(uuid "ef8427c0-9843-4e3d-845b-443da713752d")
-	)
-	(label "Right_H"
-		(at 182.88 125.73 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f335b046-fb48-4ad4-8442-582eb6877e79")
 	)
 	(label "Haptic"
 		(at 135.89 130.81 180)
@@ -3257,7 +3133,7 @@
 		)
 		(uuid "f526e39c-187f-45a3-8ce5-54560c26b8bc")
 	)
-	(label "Right_H"
+	(label "JS_H"
 		(at 236.22 113.03 180)
 		(effects
 			(font
@@ -3418,7 +3294,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47 kΩ"
 			(at 236.22 31.7499 0)
 			(effects
 				(font
@@ -4199,7 +4075,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47 kΩ"
 			(at 74.93 34.2899 0)
 			(effects
 				(font
@@ -4468,7 +4344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "R_HC05_GND"
+		(property "Value" "R_HC05_GND 1 kΩ"
 			(at 146.05 46.99 90)
 			(effects
 				(font
@@ -4594,7 +4470,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43ee1c93-adf4-4b67-8766-5637be2d8ca8")
-		(property "Reference" "JS_right1"
+		(property "Reference" "JS1"
 			(at 266.7 115.5699 0)
 			(effects
 				(font
@@ -4809,7 +4685,7 @@
 		(instances
 			(project ""
 				(path "/215bf3d6-76c1-4027-ae44-8a7d4ae3c8e5"
-					(reference "JS_right1")
+					(reference "JS1")
 					(unit 1)
 				)
 			)
@@ -4892,7 +4768,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51948395-622a-4381-8b69-9b6ebc4dad5f")
-		(property "Reference" "R_JS_right1"
+		(property "Reference" "R_JS1"
 			(at 233.68 132.0799 0)
 			(effects
 				(font
@@ -4901,7 +4777,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47 kΩ"
 			(at 233.68 134.6199 0)
 			(effects
 				(font
@@ -4946,7 +4822,7 @@
 		(instances
 			(project "RC_PCB_pro"
 				(path "/215bf3d6-76c1-4027-ae44-8a7d4ae3c8e5"
-					(reference "R_JS_right1")
+					(reference "R_JS1")
 					(unit 1)
 				)
 			)
@@ -5039,7 +4915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "R_HC05_RX"
+		(property "Value" "R_HC05_RX 470 kΩ"
 			(at 160.02 60.9599 0)
 			(effects
 				(font
@@ -5382,7 +5258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 102.87 81.28 0)
 			(effects
 				(font
