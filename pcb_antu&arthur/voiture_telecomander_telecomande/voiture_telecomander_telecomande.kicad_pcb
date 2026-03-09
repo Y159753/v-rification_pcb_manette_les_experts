@@ -1096,6 +1096,17 @@
 			(uuid "eb02e789-06d1-4184-844e-5d528a61c433")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/ESP32-C6-DEVKITC-1-N8.STEP"
+			(offset
+				(xyz 1 0 0)
+			)
+			(scale
+				(xyz 1.1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
@@ -5808,6 +5819,17 @@
 			(uuid "d3e57a9c-85ff-492a-9d89-80c11712381b")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/pec11r-4x20f-sxxxx.stp"
+			(offset
+				(xyz 0 0 5.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
