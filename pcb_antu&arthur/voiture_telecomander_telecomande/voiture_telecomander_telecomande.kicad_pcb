@@ -2112,6 +2112,17 @@
 			(uuid "c733fd91-a196-4d0f-8970-f9725318f58d")
 		)
 		(embedded_fonts no)
+		(model "/home/drago/Téléchargements/COM-09032--3DModel-STEP-56544.STEP"
+			(offset
+				(xyz 0 0.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
@@ -7311,7 +7322,7 @@
 		(property "Reference" "J2"
 			(at 0 -2.77 0)
 			(layer "F.SilkS")
-			(uuid "bb736360-3032-449e-ba19-9dac9a3665f6")
+			(uuid "47052e3b-c609-4a93-bf8e-65304e85abc9")
 			(effects
 				(font
 					(size 1 1)
@@ -7322,7 +7333,7 @@
 		(property "Value" "Ecran 7 segments"
 			(at 0 10.39 0)
 			(layer "F.Fab")
-			(uuid "d2f21b20-3371-496c-abad-483efbc39561")
+			(uuid "90341ce1-2e17-4915-a92d-eeb0332e2601")
 			(effects
 				(font
 					(size 1 1)
@@ -7334,7 +7345,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1cacc5ca-5818-4423-ad2c-e3a6cf0276aa")
+			(uuid "6920c3e3-7153-4ad7-a1d3-8b5113a1b2bb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7346,7 +7357,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "393ab28e-329a-42c6-87d2-ce4d61fa1d56")
+			(uuid "1e013a7c-27b6-4a04-96bd-aae8f582e2d7")
 			(effects
 				(font
 					(size 1.27 1.27)
