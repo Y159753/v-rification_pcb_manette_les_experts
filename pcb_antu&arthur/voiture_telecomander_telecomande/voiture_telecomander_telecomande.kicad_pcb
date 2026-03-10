@@ -2112,7 +2112,7 @@
 			(uuid "c733fd91-a196-4d0f-8970-f9725318f58d")
 		)
 		(embedded_fonts no)
-		(model "/home/drago/Téléchargements/COM-09032--3DModel-STEP-56544.STEP"
+		(model "${KIPRJMOD}/3d/COM-09032--3DModel-STEP-56544.STEP"
 			(offset
 				(xyz 0 0.5 0)
 			)
@@ -3172,7 +3172,7 @@
 			(uuid "d20396f2-8f85-4a14-93c3-e9e7da3fcece")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.step"
+		(model "${KIPRJMOD}/3d/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5022,7 +5022,7 @@
 			(uuid "8a77a5dc-e9ff-46ea-9def-b3810dbeca32")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
+		(model "${KIPRJMOD}/3d/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7301,7 +7301,7 @@
 			(uuid "d0b9070b-00ec-426e-830c-f585567197b7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7576,7 +7576,7 @@
 			(uuid "97964b9d-97c0-4db8-b564-e804b3abcd27")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/3d/PinSocket_1x04_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
