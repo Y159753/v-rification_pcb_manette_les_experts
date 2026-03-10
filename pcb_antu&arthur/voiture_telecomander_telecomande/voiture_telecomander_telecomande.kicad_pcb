@@ -1096,7 +1096,7 @@
 			(uuid "eb02e789-06d1-4184-844e-5d528a61c433")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/ESP32-C6-DEVKITC-1-N8.STEP"
+		(model "${KIPRJMOD}/3d/ESP32-C6-DEVKITC-1-N8.STEP"
 			(offset
 				(xyz 1 0 0)
 			)
@@ -5830,7 +5830,7 @@
 			(uuid "d3e57a9c-85ff-492a-9d89-80c11712381b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/pec11r-4x20f-sxxxx.stp"
+		(model "${KIPRJMOD}/3d/pec11r-4x20f-sxxxx.stp"
 			(offset
 				(xyz 0 0 5.5)
 			)
