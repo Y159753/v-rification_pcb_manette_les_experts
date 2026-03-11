@@ -1270,7 +1270,7 @@
 			(uuid "6c8c66ce-47eb-4d12-88f6-2931335adc0f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2286,7 +2286,7 @@
 			(uuid "39d7064f-50b5-44bb-8342-e86fca666d26")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2420,7 +2420,7 @@
 			(uuid "e1d580eb-2b14-4453-ade6-38ba2bef7460")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
+		(model "${KIPRJMOD}/3d/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2594,7 +2594,7 @@
 			(uuid "8442d6ae-b14a-4ebc-9ea9-cf6500ba696a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2768,7 +2768,7 @@
 			(uuid "56f416b1-3f1b-452e-a87c-497d6183bcc2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2902,7 +2902,7 @@
 			(uuid "aab48f69-17c5-49e3-aa99-dd948f6946c9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
+		(model "${KIPRJMOD}/3d/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3306,7 +3306,7 @@
 			(uuid "726f61a3-696e-4238-961d-7670fe5d2df2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
+		(model "${KIPRJMOD}/3d/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3440,7 +3440,7 @@
 			(uuid "65611f28-33bd-4a74-9fb1-46a7c7ef0739")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
+		(model "${KIPRJMOD}/3d/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3614,7 +3614,7 @@
 			(uuid "c7e7e680-df0e-45e1-bd6c-ba1a8d00ccb2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3884,7 +3884,7 @@
 			(uuid "7bd95b42-fb6f-4cab-88f7-2de6976db822")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.step"
+		(model "${KIPRJMOD}/3d/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4058,7 +4058,7 @@
 			(uuid "1b5bd65f-a46b-48ef-92ec-7db725f20eda")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4232,7 +4232,7 @@
 			(uuid "0b7cb0d1-492a-409e-8474-e7514b242cb3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4406,7 +4406,7 @@
 			(uuid "a5ec4385-9056-4267-9147-1f196b69d7b5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4580,7 +4580,7 @@
 			(uuid "a59819ba-31f6-4d2b-9b16-09058eaa71a8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4754,7 +4754,7 @@
 			(uuid "ca49c4a8-77ee-4c9c-85a8-28c974a5f204")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4888,7 +4888,7 @@
 			(uuid "56545859-fc8a-4a3f-bb3c-1526be3d7d45")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
+		(model "${KIPRJMOD}/3d/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5156,7 +5156,7 @@
 			(uuid "f77e6eec-004f-44cd-aa53-0f84e9b62367")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
+		(model "${KIPRJMOD}/3d/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5330,7 +5330,7 @@
 			(uuid "8477e65c-434e-4c50-ac84-b1bcb1cebb63")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6100,7 +6100,7 @@
 			(uuid "283310e8-ef78-4bf3-be03-86e2c825f619")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.step"
+		(model "${KIPRJMOD}/3d/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6274,7 +6274,7 @@
 			(uuid "37b8f858-6a14-4d5b-b084-a5aab066d734")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6448,7 +6448,7 @@
 			(uuid "fd5cd623-5781-4c4d-a58a-5bc6d9f16efe")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6717,13 +6717,13 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 8 "GND")
+			(net 3 "+3V3")
 			(pinfunction "Pin_4")
 			(pintype "passive")
 			(uuid "1e24a6c6-49d6-4252-b1b5-12d2cc0dcb29")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/3d/PinSocket_1x04_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6857,7 +6857,7 @@
 			(uuid "15fb6f12-9937-42e3-a549-0909ef0f098d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
+		(model "${KIPRJMOD}/3d/C_Radial_D4.0mm_H7.0mm_P1.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7127,7 +7127,7 @@
 			(uuid "a8deb7cf-134c-4429-a5b0-1d5aa7ad911e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.step"
+		(model "${KIPRJMOD}/3d/JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7656,6 +7656,14 @@
 		(uuid "078f5277-9863-42cd-99c3-1faa9e8a6f27")
 	)
 	(segment
+		(start 175.948 71.948)
+		(end 177.5 73.5)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "0de6c41e-9f3a-4c33-acf1-1b28d761babd")
+	)
+	(segment
 		(start 120.95 133.42)
 		(end 122.051 132.319)
 		(width 0.2)
@@ -7686,6 +7694,14 @@
 		(layer "F.Cu")
 		(net 3)
 		(uuid "29cd3ab8-5dc6-4cd1-89c1-0aa8f10c7a63")
+	)
+	(segment
+		(start 176.2019 66.849)
+		(end 175.948 67.1029)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "3a61e244-7cb5-40bf-97a7-c1bfe8fd47a2")
 	)
 	(segment
 		(start 112.85 133.42)
@@ -7728,6 +7744,14 @@
 		(uuid "5ae61ab0-1725-4297-a489-ef1d9d487a20")
 	)
 	(segment
+		(start 187.651 66.849)
+		(end 176.2019 66.849)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "5b25f3f5-56d5-4d7e-8e72-355d374b4e72")
+	)
+	(segment
 		(start 104.949 108.551)
 		(end 104.949 125.519)
 		(width 0.2)
@@ -7742,6 +7766,14 @@
 		(layer "F.Cu")
 		(net 3)
 		(uuid "64d3ab62-7b8c-4517-aa20-e2e119d90e15")
+	)
+	(segment
+		(start 186.5 75.62)
+		(end 187.651 74.469)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "716cb4b0-2dd2-4324-87cb-57b18e3d7254")
 	)
 	(segment
 		(start 112.84 100.66)
@@ -7816,6 +7848,22 @@
 		(uuid "c90e6acd-b893-4859-8663-92db262531a1")
 	)
 	(segment
+		(start 187.651 74.469)
+		(end 187.651 66.849)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "ce23a6b9-8784-4ecf-98bf-8d5702977ce2")
+	)
+	(segment
+		(start 175.948 67.1029)
+		(end 175.948 71.948)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 3)
+		(uuid "e83ffb4b-499a-4f7e-a5ad-68ca3072f9fc")
+	)
+	(segment
 		(start 152.249 132.319)
 		(end 153.35 133.42)
 		(width 0.2)
@@ -7830,6 +7878,14 @@
 		(layer "F.Cu")
 		(net 3)
 		(uuid "f1db0677-6589-44be-a998-e9296bedc21f")
+	)
+	(segment
+		(start 186.08 76.04)
+		(end 186.5 75.62)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "4a9644af-aa1d-4540-b2e0-15f50e133416")
 	)
 	(segment
 		(start 183 143)
@@ -8056,14 +8112,6 @@
 		(uuid "43dd77bf-72ac-4cf0-9bab-803b748dcde7")
 	)
 	(segment
-		(start 186.08 76.04)
-		(end 186.5 75.62)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 8)
-		(uuid "4a9644af-aa1d-4540-b2e0-15f50e133416")
-	)
-	(segment
 		(start 178.475 107.75)
 		(end 177.975 108.25)
 		(width 0.2)
@@ -8072,20 +8120,20 @@
 		(uuid "4e5e0d68-8e8a-425f-a3f0-c25b78e20cf3")
 	)
 	(segment
-		(start 177.5 76.04)
-		(end 186.08 76.04)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 8)
-		(uuid "4e658529-f7d5-4f93-adc4-cd15d83e5519")
-	)
-	(segment
 		(start 190.05 140)
 		(end 190.05 134.45)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 8)
 		(uuid "562d323d-80a6-40e1-9d30-9192adf8f2f4")
+	)
+	(segment
+		(start 177.5 76.04)
+		(end 180.42 76.04)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 8)
+		(uuid "575f0122-9959-4bd0-818a-7a787714d509")
 	)
 	(segment
 		(start 179.55 109.825)
@@ -8110,14 +8158,6 @@
 		(layer "B.Cu")
 		(net 8)
 		(uuid "682302ca-eae9-4cfa-8dae-d264cd8381c1")
-	)
-	(segment
-		(start 187.88 83.5)
-		(end 187.88 77)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 8)
-		(uuid "69885d3f-05f0-4c4a-9e06-64e8c9bae96e")
 	)
 	(segment
 		(start 123 83.8325)
@@ -8168,14 +8208,6 @@
 		(uuid "7706355c-80d1-48ca-9f14-268fc6d60140")
 	)
 	(segment
-		(start 187.88 77)
-		(end 186.5 75.62)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 8)
-		(uuid "7a2c7c7c-64ec-4188-a59b-352fcbc6352e")
-	)
-	(segment
 		(start 183.599 139.099)
 		(end 184.5 140)
 		(width 0.2)
@@ -8206,6 +8238,14 @@
 		(layer "B.Cu")
 		(net 8)
 		(uuid "85588918-f3ce-4ccd-86e7-2534f1f2b250")
+	)
+	(segment
+		(start 180.42 76.04)
+		(end 187.88 83.5)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 8)
+		(uuid "898dafdf-4783-48bf-9ed4-8b84cb79af61")
 	)
 	(segment
 		(start 179.68 90.5)
@@ -9666,6 +9706,7 @@
 	(zone
 		(net 8)
 		(net_name "GND")
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "abb6cf30-33bc-47b8-aa6f-00ef9d4a6a30")
 		(hatch edge 0.5)
