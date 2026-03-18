@@ -8021,17 +8021,6 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3d/7Seg.step"
-			(offset
-				(xyz -39.5 -15.5 10)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -0 -0 -0)
-			)
-		)
 	)
 	(gr_rect
 		(start 102.692142 63.5)
